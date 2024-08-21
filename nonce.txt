@@ -1,0 +1,17 @@
+Wrote new keypair to nonce-authority.json
+=================================================================================
+pubkey: DJCEpwv77jRsWVXaf6dwmiuZbg3xSL6bWTs7JmDUBYTP
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+mad food cluster thought latin jelly bus scrap luxury champion loyal usual
+==========================================================================
+
+Wrote new keypair to nonce-account.json
+=================================================================================
+pubkey: 3dAQDH5bxCzukAuwzkjvy3g3jzY7BeJzVGbwMDuMRA59
+=================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+similar guess night tired hedgehog amazing vehicle school surge body clutch elbow
+=================================================================================
+
+Signature: 2gVQfKWGBwju9FoaHAxk6MTYb4BLAcm4gfCwFXGvn7YnB4tM6ouTpi7squMrS77w3DFsG3EtpGivu6ZXKMnU4bm7
